@@ -27,11 +27,20 @@ ClassicEditor.create( document.querySelector( '#editor' ) )
     console.error( 'There was a problem initializing the editor.', error );
  });
 ```
-If using with CKEditor
+If using with CKEditor with react
+
+First install @ckeditor/ckeditor5-react
+```
+npm install @ckeditor/ckeditor5-react
+
+OR
+
+yarn add @ckeditor/ckeditor5-react
+```
 
 ```
 import CKEditor from "@ckeditor/ckeditor5-react";
-import "ckeditor5-mathtype/build/ckeditor";
+const ClassicEditor = require("ckeditor5-mathtype/build/ckeditor");
 
 <CKEditor
  editor={ClassicEditor}
