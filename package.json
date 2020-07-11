@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-mathtype",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ckeditor5 build classic with support of mathtype plugin.",
   "keywords": [
     "ckeditor5-build",
@@ -12,9 +12,6 @@
     "chemtype"
   ],
   "main": "./build/ckeditor.js",
-  "files": [
-    "build"
-  ],
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^19.0.0",
     "@ckeditor/ckeditor5-autoformat": "^19.0.0",
