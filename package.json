@@ -12,7 +12,7 @@
     "chemtype"
   ],
   "main": "./build/ckeditor.js",
-  "devDependencies": {
+  "dependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^19.0.0",
     "@ckeditor/ckeditor5-autoformat": "^19.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^19.0.0",
