@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-mathtype",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ckeditor5 build classic with support of mathtype plugin.",
   "keywords": [
     "ckeditor5-build",
